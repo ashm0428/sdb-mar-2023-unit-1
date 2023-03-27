@@ -32,5 +32,5 @@ Use the command in the terminal `git commit -m "YOUR MESSAGE HERE"`
 1.`git add .`
 2. `git status` - to verity (optional)
 3. `git commit -m "ADD NEW MESSAGE HERE"` - EX: "added styling", "fixed bug", "fixed typo"
-4. `git push origin main`
+4. `git push origin master`
 
